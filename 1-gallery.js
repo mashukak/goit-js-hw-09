@@ -9,4 +9,4 @@ import"./assets/modulepreload-polyfill-B5Qt9EMX.js";/* empty css                
           </a>
         </li>
       `).join("");n.innerHTML=c(e);new t(".gallery a",{Data:"alt"});
-//# sourceMappingURL=1-gallary.js.map
+//# sourceMappingURL=1-gallery.js.map
